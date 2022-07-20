@@ -1,5 +1,4 @@
 cara kerjanya :
-create vps di vultr
 create centOS 7 x64
 
 bash <(curl -s "https://raw.githubusercontent.com/ch4t88/mr.siluman/main/install.sh")
